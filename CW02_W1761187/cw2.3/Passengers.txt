@@ -1,0 +1,20 @@
+Seat Number : 13
+First Name : ra
+Last name : s
+Seconds in queue : 13s
+
+Seat Number : 18
+First Name : emi
+Last name : s
+Seconds in queue : 13s
+
+Seat Number : 21
+First Name : mal
+Last name : s
+Seconds in queue : 4s
+
+Seat Number : 42
+First Name : bim
+Last name : s
+Seconds in queue : 15s
+
